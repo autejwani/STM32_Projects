@@ -28,3 +28,5 @@ Pin Diagram can be found here: https://www.oreilly.com/library/view/arm-based-mi
 - Converts the raw value to Celsius using: `(raw_temp / 340.0) + 36.53`
 - Converts the Celsius measurement to Fahrenheit using: `(temperature_celsius * 9.0 / 5.0) + 32.0`
 
+## Datasheet
+The data sheet for the MPU-6056 can be found here: https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Register-Map1.pdf
