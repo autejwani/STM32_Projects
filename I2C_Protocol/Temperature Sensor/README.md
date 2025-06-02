@@ -17,7 +17,7 @@ This project reads temperature data from a **GY-521** module using I2C communica
 | GND    | GND                 |
 | SDA    | PB9                 |
 | SCL    | PB8                 |
-
+Pin Diagram can be found here: https://www.oreilly.com/library/view/arm-based-microcontroller-projects/9780081029701/B978008102969509995X.xhtml
 
 ## How It Works
 
